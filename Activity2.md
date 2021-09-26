@@ -22,6 +22,7 @@
 ### Authentication Key
 
 * Using Access Tokens.
+* Key: pk.a0fd29311853789b83630c120d292f03
 
 ----------------------
 ### API Description
@@ -43,6 +44,7 @@
 ### Authentication Key
 
 * API master Key (Access Tokens)
+* Key: 2838128258f14da4a8b2d5064dd19e7c
 
 -------------
 
@@ -62,12 +64,20 @@
 ### Authentication Key
 
 * API Key Access Tokens.
+* Key: 54cc9f2eb55ebbd8b733256bd764b01a
 
 ---
 
 ## Link To my Live URL:
 
-### [City-Explorer](https://deploy-preview-15--city-explorer-qamar.netlify.app/?utm_source=github&utm_campaign=bot_dp)
-### [Heroku](https://city-explorer-class07.herokuapp.com/)
-### [Backend Repo](https://github.com/QamarAlkhatib/city-explorer-api)
-### [Frontend Repo](https://github.com/QamarAlkhatib/city-explorer)
+### [City-Explorer](https://deploy-preview-15--city-explorer-qamar.netlify.app/?utm_source=github&utm_campaign=bot_dp) 
+https://deploy-preview-15--city-explorer-qamar.netlify.app/?utm_source=github&utm_campaign=bot_dp 
+
+### [Heroku](https://city-explorer-class07.herokuapp.com/) 
+https://city-explorer-class07.herokuapp.com/
+
+### [Backend Repo](https://github.com/QamarAlkhatib/city-explorer-api) 
+https://github.com/QamarAlkhatib/city-explorer-api
+
+### [Frontend Repo](https://github.com/QamarAlkhatib/city-explorer) 
+https://github.com/QamarAlkhatib/city-explorer

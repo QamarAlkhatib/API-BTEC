@@ -68,3 +68,6 @@
 ## Link To my Live URL:
 
 ### [City-Explorer](https://deploy-preview-15--city-explorer-qamar.netlify.app/?utm_source=github&utm_campaign=bot_dp)
+### [Heroku](https://city-explorer-class07.herokuapp.com/)
+### [Backend Repo](https://github.com/QamarAlkhatib/city-explorer-api)
+### [Frontend Repo](https://github.com/QamarAlkhatib/city-explorer)
